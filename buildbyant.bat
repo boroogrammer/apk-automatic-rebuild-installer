@@ -1,0 +1,1 @@
+"C:\\Program Files\\NetBeans 8.0.2\\extide\\ant\\bin\\ant" -f D:\\Software\\android.projects\\mvvgle.ganzaga clean debug
